@@ -1,0 +1,27 @@
+{
+  "name": "stgtypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier:show": "prettier --list-different \"./**/*\"",
+    "prettier:write": "prettier \"./**/*\" --write"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fp-ts": "^2.9.3",
+    "fp-ts-contrib": "^0.1.21",
+    "hyper-ts": "^0.6.0",
+    "io-ts": "^2.2.13",
+    "monocle-ts": "^2.3.4",
+    "newtype-ts": "^0.3.4"
+  },
+  "devDependencies": {
+    "io-ts-types": "^0.5.12",
+    "tslint": "5.12.0",
+    "tslint-config-prettier": "1.17.0",
+    "prettier": "1.15.3"
+  }
+}
