@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prebuild": "rimraf -- dist lib",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier:show": "prettier --list-different \"./**/*\"",
     "prettier:write": "prettier \"./**/*\" --write"

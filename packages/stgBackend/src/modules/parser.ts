@@ -34,10 +34,7 @@ const fakeInput: QueryInput = {
 export const getRes = async () => {
     const r = await pipe(
         res(),
-        TE.fold(
-            (e) => e as any,
-            (r) => () => r,
-        ),
+        TE.fold((e) => e as any, (r) => () => r),
     )();
     return r;
 };
@@ -56,7 +53,12 @@ const executeQuery = (input: QueryInput) => async (database: Db) => {
     return result;
 };
 
-const res = () => pipe(getConnectedClient(uri), TE.chain(getDatabase()), TE.map(executeQuery(fakeInput)));
+const res = () =>
+    pipe(
+        getConnectedClient(uri),
+        TE.chain(getDatabase()),
+        TE.map(executeQuery(fakeInput)),
+    );
 
 interface DatabaseError {
     type: 'DatabaseError';
@@ -70,12 +72,11 @@ const databaseError = (errorMessage: string) => (error: unknown): DatabaseError 
     rawError: error,
 });
 
-
 export const xlsxTemplate = async (headerLine: HeaderLine[]) => {
     try {
-        const headerLines = headerLine.map(line => line.header);
+        const headerLines = headerLine.map((line) => line.header);
 
-        const rows = headerLine.map(line => line.property);
+        const rows = headerLine.map((line) => line.property);
 
         return [headerLines, ...rows];
     } catch (e) {

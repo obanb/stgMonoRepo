@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc1945b-46b0-430a-b53b-6002c0d91904" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/stgTypes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgTypes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lerna.json" beforeDir="false" afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/stgBackend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgBackend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/stgBackend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgBackend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/stgTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgTypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/stgTypes/game.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgTypes/src/game.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/stgTypes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgTypes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/stgTypes/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/stgTypes/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,12 +26,13 @@
     <session id="1416953250">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,249 +105,14 @@
       <path value="$PROJECT_DIR$/package.json" />
       <path value="$PROJECT_DIR$/packages/nextclient/package.json" />
       <path value="$PROJECT_DIR$/packages/stgBackend/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/argparse/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/babel-code-frame/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/babel-code-frame/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/babel-code-frame/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/babel-code-frame/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/builtin-modules/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/commander/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/diff/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/esprima/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/esutils/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Align/Array/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Align/Option/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Align/Record/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Align/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/ArrayOption/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Do/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Free/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/IOOption/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/List/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/ReaderIO/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/RegExp/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Semialign/NonEmptyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Semialign/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/StateEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/StateIO/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/StateTaskEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Task/getLine/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Task/withTimeout/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/TaskOption/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/Zipper/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/batchTraverse/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/collectUntil/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/filterA/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts-contrib/time/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Alt/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Alternative/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Applicative/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Apply/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Array/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Bifunctor/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/BooleanAlgebra/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Bounded/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/BoundedDistributiveLattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/BoundedJoinSemilattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/BoundedLattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/BoundedMeetSemilattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Category/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Chain/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ChainRec/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Choice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Comonad/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Compactable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Console/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Const/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Contravariant/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Date/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/DistributiveLattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Either/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/EitherT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Eq/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Extend/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Field/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Filterable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/FilterableWithIndex/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Foldable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/FoldableWithIndex/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Functor/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/FunctorWithIndex/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Group/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/HKT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/HeytingAlgebra/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/IO/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/IOEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/IORef/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Identity/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Invariant/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/JoinSemilattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Lattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Magma/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Map/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/MeetSemilattice/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Monad/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/MonadIO/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/MonadTask/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/MonadThrow/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Monoid/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/NonEmptyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Option/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/OptionT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Ord/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Ordering/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Profunctor/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Random/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Reader/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReaderEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReaderT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReaderTask/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReaderTaskEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlyMap/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlyNonEmptyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlyRecord/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlySet/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ReadonlyTuple/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Record/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Ring/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Semigroup/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Semigroupoid/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Semiring/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Set/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Show/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/State/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/StateReaderTaskEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/StateT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Store/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Strong/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Task/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/TaskEither/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/TaskThese/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/These/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/TheseT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Traced/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Traversable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/TraversableWithIndex/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Tree/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Tuple/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Unfoldable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/ValidationT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Witherable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/Writer/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/WriterT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/boolean/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/es6/HKT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/function/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/lib/HKT/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fp-ts/pipeable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/function-bind/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/has-ansi/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/has/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/hyper-ts/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/BigIntFromString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/BooleanFromString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/DateFromISOString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/DateFromNumber/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/DateFromUnixTime/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/IntFromString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/NonEmptyString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/NumberFromString/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/UUID/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/clone/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/date/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/either/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/fromNewtype/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/fromNullable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/fromRefinement/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/getLenses/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/mapOutput/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/nonEmptyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/option/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/optionFromNullable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/readonlyNonEmptyArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/readonlySetFromArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/regexp/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/setFromArray/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/withEncode/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/withFallback/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/withMessage/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts-types/withValidate/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Codec/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/DecodeError/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Decoder/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Encoder/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Eq/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/FreeSemigroup/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Guard/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Kleisli/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/PathReporter/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Reporter/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Schema/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Schemable/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/TaskDecoder/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/ThrowReporter/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/Type/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/io-ts/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/is-core-module/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/js-tokens/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/js-yaml/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/monocle-ts/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/newtype-ts/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/path-parse/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/prettier/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/baz/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/browser_field/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/dot_main/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/incorrect_main/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/invalid_main/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/multirepo/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/resolve/test/resolver/symlinked/package/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/sprintf-js/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tslib/modules/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tslib/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tslib/test/validateModuleExportsMatchCommonJS/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tslint-config-prettier/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tslint/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/tsutils/package.json" />
-      <path value="$PROJECT_DIR$/packages/stgTypes/node_modules/wrappy/package.json" />
       <path value="$PROJECT_DIR$/packages/stgTypes/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="208" />
-    <option name="y" value="74" />
-    <option name="width" value="1940" />
-    <option name="height" value="942" />
+    <option name="x" value="212" />
+    <option name="y" value="103" />
+    <option name="width" value="1623" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -348,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,17 +130,23 @@
             <path>
               <item name="stg" type="b2602c69:ProjectViewProjectNode" />
               <item name="stg" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stg" type="462c0819:PsiDirectoryNode" />
               <item name="packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/stgTypes" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="C:\Users\obanb\Desktop\up-graphql-origin\stg\node_modules\tslint" />
@@ -411,17 +188,18 @@
       <workItem from="1610641122854" duration="100000" />
       <workItem from="1610641239768" duration="44000" />
       <workItem from="1610642355414" duration="264000" />
+      <workItem from="1610699146963" duration="64000" />
+      <workItem from="1610720380605" duration="1567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1778000" />
+    <option name="totallyTimeSpent" value="3409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="208" y="74" width="1940" height="942" extended-state="0" />
-    <editor active="true" />
+    <frame x="212" y="103" width="1623" height="850" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29931548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,7 +212,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3699187" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -467,7 +245,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/stgTypes/game.ts">
+    <entry file="file://$PROJECT_DIR$/packages/stgTypes/src/game.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/packages/stgBackend/tsconfig.json">

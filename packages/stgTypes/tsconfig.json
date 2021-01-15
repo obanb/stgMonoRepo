@@ -1,20 +1,22 @@
 {
   "compilerOptions": {
-    "target": "esnext",
     "module": "commonjs",
-    "outDir": "dist",
+    "target": "es5",
+    "outDir": "lib",
     "rootDir": "src",
     "baseUrl": ".",
     "strict": true,
     "moduleResolution": "node",
-    "inlineSourceMap": true,
-    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "sourceMap": true,
     "experimentalDecorators": true,
-    // Those two are needed to overcome bugs in apollo-client
-    "strictNullChecks": false,
-    "skipLibCheck": true
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "paths": {
+      "*": ["src/types/*", "node_modules/*"]
+    },
+    "lib": ["dom", "esnext"]
   },
-  "include": [
-    "src/**/*"
-  ]
+  "include": ["src/**/*"],
+  "exclude": ["lib/**/*.d.ts"]
 }

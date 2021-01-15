@@ -16,3 +16,15 @@ export const mongoQueryInput = t.interface({
     allowEmpty: t.boolean,
   }),
 });
+
+export const mongoQueryInput2 = t.interface({
+  query: t.unknown,
+  collection: t.string,
+  projection: t.interface({
+    type: t.string,
+    list: t.array(xlsxHeaderLine),
+  }),
+  config: t.interface({
+    allowEmpty: t.boolean,
+  }),
+});
